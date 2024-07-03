@@ -1,5 +1,4 @@
-adblockingproject -
-
+ADBLOCKER PROJECT -
 
 -in manifest.json - in this file I have written the code for the adblockin
 -and in rules,json - in this I have set the rules from where the ads can be block and put the main ad provider links
