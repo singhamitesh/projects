@@ -14,4 +14,10 @@ STEPS TO RUN PROJECT -
 - the open the website on search engine by typing local host/web_d
 - then, finally test the website.
 
+
+ALSO UPLOADED IT ON DOCKER HUB YOU CAN ACCESS IT BY RUNNING THE GIVEN COMMAND -
+docker pull amiteshhsingh/gymwebsite:01
+or
+docker pull amiteshhsingh/gymwebsite:02
+
 ...........................................................................................................................................
