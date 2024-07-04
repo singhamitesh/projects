@@ -16,8 +16,8 @@ STEPS TO RUN PROJECT -
 
 
 ALSO UPLOADED IT ON DOCKER HUB YOU CAN ACCESS IT BY RUNNING THE GIVEN COMMAND -
-docker pull amiteshhsingh/gymwebsite:01
+- docker pull amiteshhsingh/gymwebsite:01
 or
-docker pull amiteshhsingh/gymwebsite:02
+- docker pull amiteshhsingh/gymwebsite:02
 
 ...........................................................................................................................................
