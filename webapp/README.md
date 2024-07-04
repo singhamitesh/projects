@@ -11,7 +11,7 @@
     - used many of the docker commands and also WRITTEN THE DOCKER FILE  and COMPOSE FILE FOR THE SAME.
    
 
-TO SHARE IT ON DOCKER HUB as a CONTAINER so, the any in globe can access it I have done following steps -
+ALSO SHARE IT ON DOCKER HUB as a CONTAINER so, the anyone in globe can access it I have done following steps -
 
 1) docker build -t amiteshhsingh/dockerpracticewebapp:01 . (as I have make docker repo. with the name amiteshhsingh/dockerpracticewebapp)
 2) docker run -d -P --name "webapp1" amiteshhsingh/dockerpracticewebapp:01    (to run the container and the project)
